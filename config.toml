@@ -1,4 +1,5 @@
 baseURL = "https://andrewcharman.tech/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Andrew Charman"
 theme = "ananke"
+googleAnalytics = "UA-138535910-3"
