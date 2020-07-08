@@ -1,5 +1,5 @@
 baseURL = "https://andrewcharman.tech/"
 languageCode = "en-us"
 title = "Andrew Charman"
-theme = "ananke"
+theme = "academic"
 googleAnalytics = "UA-138535910-3"
