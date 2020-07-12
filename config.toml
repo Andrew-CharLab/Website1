@@ -1,5 +1,3 @@
-baseURL = "https://andrewcharman.tech/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Andrew Charman"
-theme = "toha"
-googleAnalytics = "UA-138535910-3"
+title = "My New Hugo Site"
