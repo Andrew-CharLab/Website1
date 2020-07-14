@@ -27,7 +27,7 @@ params:
   background: "assets/images/background1.jpg"
 
   # specify whether you want to write blog post or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # testing section/widgets
   enableExperiences: true
