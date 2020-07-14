@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Microsoft Windows Enterprise
+  icon: "assets/images/WindowsLogo.png"
+  summary: "Desktop & Server Support within a Windows Domain environment."
+
+- name: Customer Service
+  icon: "assets/images/handshake-icon.png"
+  summary: "Providing quality service with every contact."
+
+- name: Microsoft Active Directory
+  icon: "assets/images/WindowsLogo.png"
+  summary: "Creating and Managing Users and Computer Objects. Reviewing Group Policy configurations"
+
+- name: Microsoft Exchange
+  icon: "assets/images/WindowsLogo.png"
+  summary: "Managing all aspects of mailboxes. Using email Tracking for problem solving"
+
+- name: Powershell
+  icon: "assets/images/powershell.png"
+  summary: "Capable of writing scripts to complete repetitive tasks. Create tools that can remotely resolve issues without users impact."
+
+- name: Linux
+  icon: "assets/images/linux.png"
+  summary: "Using as the main operating system."

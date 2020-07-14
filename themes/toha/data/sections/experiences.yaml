@@ -1,0 +1,67 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Accor Appartment & Leases
+    url: "https://www.mantrahotels.com/"
+    location: Gold Coast, Queensland
+    # company overview
+    overview: Accor is an internation accomodation provider that place people at the heart of what they do, and nurturing real passion for service and achievement beyond limits.
+  
+  positions:
+  - designation: TAC Support Team Leader
+    start: Nov 2015
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead a team to provide quality remote and onsite support over 130 hotels within Australia/New Zealand and Hawaii
+    - Manage the workload amongst the team to provide effective and efficient support
+    - Work as part of team to provide both remote and onsite support for all hardware (desktops and servers), Microsoft Office, Emails, Internet Access, Telephony Services and Printing both remotely and face to face
+
+  - designation: Senior TAC Support
+    start: Nov 2012
+    end: Nov 2015
+    responsibilities:
+    - Guide and train new staff members  
+    - Work as part of team to provide both remote and onsite support for all hardware (desktops and servers), Microsoft Office, Emails, Internet Access, Telephony Services and Printing both remotely and face to face
+
+  - designation: TAC Support
+    start: Dec 2009
+    end: Nov 2012
+    responsibilities:
+    - Work as part of team to provide both remote and onsite support for all hardware (desktops and servers), Microsoft Office, Emails, Internet Access, Telephony Services and Printing both remotely and face to face
+
+- company:
+    name: Kidsoft (Formaly NumeroPro).
+    url: "https://www.kidsoft.com.au/"
+    location: Robina, Gold Coast, Queensland
+    overview: Kidsoft is a leader in the creation of technology solutions and service functions for childcare industry..
+  positions:
+  - designation: System Consultant / Administrator
+    start: March 2008
+    end: October 2009
+    responsibilities:
+    - Work as part of team to provide remote support for CCMS (Child Care Management System)
+    - In house support for all Hardware, Servers, Microsoft Office, Emails, Internet Access, Telephony Services and Printing both remotely and face to face.
+
+- company:
+    name: Statistics New Zealand.
+    url: "https://www.stats.govt.nz/"
+    location: Wellington New Zealand
+    overview: Stats NZ Tatauranga Aotearoa is New Zealand's official data agency.
+  positions:
+  - designation: Systems Consultant / Administrator
+    start: Jan 2007
+    end: Jan 2008
+    responsibilities:
+    - Work as part of team to provide both remote and onsite support for all hardware (desktops and servers), 
+    - Support for Lotus Notes, Emails, Internet Access, Telephony Services and Printing both remotely and face to face.

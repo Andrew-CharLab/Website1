@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your achievements achievements
+achievements:
+- title: Course
+  image: assets/images/itil.png
+  summary: ITIL Foundation v3
+- title: Course
+  image: assets/images/7habits.png
+  summary: The 7 Habits of Highly Effective People®
+- title: Course
+  image: assets/images/customerservice.png
+  summary: Champagne Customer Service.

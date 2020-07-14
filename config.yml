@@ -10,10 +10,10 @@ markup:
       unsafe: true
 
 # Enable Google Analytics
-googleAnalytics: UA-xxxxxxxx
+googleAnalytics: UA-138535910-3
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+#disqusShortname: does-not-exist
 
 # Enable global emoji support
 enableEmoji: true
@@ -24,31 +24,33 @@ params:
   copyright: © 2020 Copyright.
 
   # background image of the landing page
-  background: "images/background.jpg"
-
-  # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  background: "assets/images/background.jpg"
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
 
+  # testing section/widgets
+  enableExperiences: true
+  sections : true
+
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
-  customMenus:
-  - name: Notes
-    url: https://hossainnotes.netlify.app/docs/example/
+  #customMenus:
+  #- name: Notes
+  #  url: https://hossainnotes.netlify.app/docs/example/
 
   # some information about you
   author:
-    name: "Jane Doe"
-    nickname: "Jane"
-    image: "images/avatar.png"
+    name: "Andrew Charman"
+    nickname: "Andrew"
+    image: "assets/images/avatar.jpg"
+    
     # give your some contact information. they will be used in the footer
     contactInfo:
-      email: "janedoe@example.com"
-      phone: "+0123456789"
+      email: "andrew.charman@hotmail.com"
+      #phone: "+0123456789"
+    
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+     - I am a brave leader
+     - I interested in learning new technologies
